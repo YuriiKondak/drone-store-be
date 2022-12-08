@@ -1,15 +1,15 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  name: MyString
+  name: change1
   price: 1
-  type: 
+  type:
   top_speed: 1
   release_date: MyString
 
 two:
-  name: MyString
+  name: change
   price: 1
-  type: 
+  type:
   top_speed: 1
   release_date: MyString
